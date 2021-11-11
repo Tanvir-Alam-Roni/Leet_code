@@ -13,6 +13,6 @@ def squares(nums):
 #     square.sort()
 #     return square
 
-a = [-10, 3, 4, 4, 5]
+a = [-10, 3, 4, 4, 6]
 
 print(squares(a))
